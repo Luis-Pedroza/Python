@@ -6,3 +6,4 @@
 ### Canales RGB [(Código)](https://github.com/Luis-Pedroza/Python/blob/main/Vision/Practica2.py)
 ### Modelos de color [(Código)](https://github.com/Luis-Pedroza/Python/blob/main/Vision/Practica3.py)
 ### Corrección Gamma [(Código)](https://github.com/Luis-Pedroza/Python/blob/main/Vision/Practica4.py)
+### Detección de piel [(Código)](https://github.com/Luis-Pedroza/Python/blob/main/Vision/Practica5.py)
