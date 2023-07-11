@@ -8,4 +8,6 @@
 ### Corrección Gamma [(Código)](https://github.com/Luis-Pedroza/Python/blob/main/Vision/Practica4.py)
 ### Operadores detectores de bordes[(Código)](https://github.com/Luis-Pedroza/Python/blob/main/Vision/Practica5.py)
 ### Operadores puntuales[(Código)](https://github.com/Luis-Pedroza/Python/blob/main/Vision/Practica6.py)
-### Detección de piel [(Código)](https://github.com/Luis-Pedroza/Python/blob/main/Vision/Practica7.py)
+### Detección de piel [(Código)](https://github.com/Luis-Pedroza/Python/blob/main/Vision/Practica7.py)<br><br>
+## Interfaz de Usuario
+### Pic Management [(Repositorio)](https://github.com/Luis-Pedroza/Pic_Management)
